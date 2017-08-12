@@ -1,1 +1,1 @@
-console.log("Gitのお勉強です！");
+console.log("Git勉強です");
